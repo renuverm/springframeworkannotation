@@ -1,0 +1,20 @@
+com/renuver/springframework/learn/HappyFortuneService.java
+ com.renuver.springframework.learn.HappyFortuneService
+com/renuver/springframework/learn/FortuneService.java
+ com.renuver.springframework.learn.FortuneService
+com/renuver/springframework/learn/Coach.java
+ com.renuver.springframework.learn.Coach
+com/renuver/springframework/learn/CricketCoach.java
+ com.renuver.springframework.learn.CricketCoach
+com/renuver/springframework/learn/AnnotationDemoApp.java
+ com.renuver.springframework.learn.AnnotationDemoApp
+com/renuver/springframework/learn/SadFortuneService.java
+ com.renuver.springframework.learn.SadFortuneService
+com/renuver/springframework/learn/TennisCoach.java
+ com.renuver.springframework.learn.TennisCoach
+com/renuver/springframework/learn/RESTFortuneService.java
+ com.renuver.springframework.learn.RESTFortuneService
+com/renuver/springframework/learn/DatabaseFortuneService.java
+ com.renuver.springframework.learn.DatabaseFortuneService
+com/renuver/springframework/learn/RandomFortuneService.java
+ com.renuver.springframework.learn.RandomFortuneService
