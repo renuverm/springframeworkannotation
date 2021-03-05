@@ -10,11 +10,13 @@ com/renuver/springframework/learn/AnnotationDemoApp.java
  com.renuver.springframework.learn.AnnotationDemoApp
 com/renuver/springframework/learn/SadFortuneService.java
  com.renuver.springframework.learn.SadFortuneService
-com/renuver/springframework/learn/TennisCoach.java
- com.renuver.springframework.learn.TennisCoach
+com/renuver/springframework/learn/RandomFortuneService.java
+ com.renuver.springframework.learn.RandomFortuneService
 com/renuver/springframework/learn/RESTFortuneService.java
  com.renuver.springframework.learn.RESTFortuneService
 com/renuver/springframework/learn/DatabaseFortuneService.java
  com.renuver.springframework.learn.DatabaseFortuneService
-com/renuver/springframework/learn/RandomFortuneService.java
- com.renuver.springframework.learn.RandomFortuneService
+com/renuver/springframework/learn/AnnotationBeanScopeDemoApp.java
+ com.renuver.springframework.learn.AnnotationBeanScopeDemoApp
+com/renuver/springframework/learn/TennisCoach.java
+ com.renuver.springframework.learn.TennisCoach
