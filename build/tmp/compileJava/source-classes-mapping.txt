@@ -20,3 +20,7 @@ com/renuver/springframework/learn/AnnotationBeanScopeDemoApp.java
  com.renuver.springframework.learn.AnnotationBeanScopeDemoApp
 com/renuver/springframework/learn/TennisCoach.java
  com.renuver.springframework.learn.TennisCoach
+com/renuver/springframework/learn/SwimCoach.java
+ com.renuver.springframework.learn.SwimCoach
+com/renuver/springframework/learn/AnnotationValueDemoApp.java
+ com.renuver.springframework.learn.AnnotationValueDemoApp
