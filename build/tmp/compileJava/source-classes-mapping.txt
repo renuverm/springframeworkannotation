@@ -8,8 +8,8 @@ com/renuver/springframework/learn/CricketCoach.java
  com.renuver.springframework.learn.CricketCoach
 com/renuver/springframework/learn/AnnotationDemoApp.java
  com.renuver.springframework.learn.AnnotationDemoApp
-com/renuver/springframework/learn/SadFortuneService.java
- com.renuver.springframework.learn.SadFortuneService
+com/renuver/springframework/learn/AnnotationValueDemoApp.java
+ com.renuver.springframework.learn.AnnotationValueDemoApp
 com/renuver/springframework/learn/RandomFortuneService.java
  com.renuver.springframework.learn.RandomFortuneService
 com/renuver/springframework/learn/RESTFortuneService.java
@@ -22,5 +22,13 @@ com/renuver/springframework/learn/TennisCoach.java
  com.renuver.springframework.learn.TennisCoach
 com/renuver/springframework/learn/SwimCoach.java
  com.renuver.springframework.learn.SwimCoach
-com/renuver/springframework/learn/AnnotationValueDemoApp.java
- com.renuver.springframework.learn.AnnotationValueDemoApp
+com/renuver/springframework/learn/SadFortuneService.java
+ com.renuver.springframework.learn.SadFortuneService
+com/renuver/springframework/learn/FootballCoach.java
+ com.renuver.springframework.learn.FootballCoach
+com/renuver/springframework/withoutxml/SportConfig.java
+ com.renuver.springframework.withoutxml.SportConfig
+com/renuver/springframework/withoutxml/JavaConfigDemoApp.java
+ com.renuver.springframework.withoutxml.JavaConfigDemoApp
+com/renuver/springframework/withoutxml/FootballJavaConfigDemoApp.java
+ com.renuver.springframework.withoutxml.FootballJavaConfigDemoApp
